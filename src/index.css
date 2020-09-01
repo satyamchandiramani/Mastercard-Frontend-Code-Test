@@ -1,0 +1,21 @@
+
+.headers{
+  padding: 20px;
+  background-color: grey;
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.search{
+  display: flex;
+  justify-content: center;
+  padding: 20px 10px;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+}
